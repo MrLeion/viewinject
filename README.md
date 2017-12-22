@@ -1,9 +1,9 @@
 # viewinject
 通过开源整个项目主要是学习git的使用，然后自我感觉类似于想ButterKnife以及Xutils的这个页面注入功能还是挺牛逼的，
-所有希望跟多的哥们可以和我一起完成这个仿butterKnife,谢谢！
+所有希望更多的哥们可以和我一起完成这个高仿版butterKnife,谢谢！
 当然，具体的使用也会在下面的代码中个大家演示一下：
 
-
+```
 package com.john.viewinjectdemo;
 
 import android.os.Bundle;
@@ -100,3 +100,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
+```
